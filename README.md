@@ -3,7 +3,7 @@
 NoMorePay es una app Android pensada para ayudar a no pagar de más: organiza **suscripciones**, **pruebas gratis** y **promociones**, y permite llevar un control para recordar cuándo pueden empezar a cobrarte.
 ## Autores
 - Javier Escudero Garcia
-- Diego Forteza
+- Diego 
 - Rodrigo 
 
 ## Introducción y objetivos
