@@ -34,3 +34,7 @@ Implementado según requisitos de la fase:
 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/TU_USUARIO/TU_REPO.git
+
+
+##Conclusiones
+En esta fase se ha conseguido una app navegable y estable con las pantallas mínimas requeridas, dejando preparada la base para añadir MVVM, persistencia y red en fases posteriores.
